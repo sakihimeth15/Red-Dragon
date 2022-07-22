@@ -19,14 +19,14 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is ☬SAKI༒BOT࿐
+global.alivemsg = `My name is SAKIBOT
 My Creator is Sakidu Ganegoda` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94705000112'] //Owner number in aive msg
 global.premium = ['+94705000112'] //Owner Number info
 global.ownernomer = '+94705000112' //Owner Number <<<
 
-global.ownername = 'SAKI' //Owner Name
+global.ownername = 'Saki Boy' //Owner Name
 global.botname = '☬SAKI༒BOT࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
@@ -35,12 +35,12 @@ global.btnurl = 'https://www.youtube.com/channel/UCbhQRTS80KKrvin1QgXh45Q' //Cha
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬SAKI༒BOT࿐' //Bot Pacage Name
-global.author = 'SAKI❯❯' //Author Name
+global.author = 'Saki Boy' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = '☬SAKI༒BOT࿐' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '☬SAKI༒BOT࿐' //In list menu
+global.footer = '☬SAKIBOT࿐' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://www.youtube.com/channel/UCbhQRTS80KKrvin1QgXh45Q' //Youtube Account!
@@ -48,15 +48,15 @@ global.ig = 'https://www.youtube.com/channel/UCbhQRTS80KKrvin1QgXh45Q' //Youtube
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
+    admin: 'එය භාවිතා කළ හැක්කේ පරිපාලකයින්ට පමණි!😉',
+    botAdmin: 'මාව Admin කරන්න😥',
+    owner: 'මෙය භාවිතා කළ හැක්කේ හිමිකරුට පමණි!😉',
+    group: 'එය භාවිතා කල හැක්කේ ගෲප් වල පමනයි!',
+    private: 'එය භාවිතා කල හැක්කේ ඉන්බොස් වල පමනයි!',
+    bot: 'මෙම විශේෂාංගය Bot සඳහා පමණි😝',
     wait: '👉රැදී සිටින්න👈',
-    error: 'Error🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    error: 'ජෝශයක්🤔!',
+    endLimit: 'ඔබගේ දෛනික සීමාව කල් ඉකුත් වී ඇත, සීමාව සෑම පැය 12 කට වරක් නැවත සකසනු ලැබේ',
 }
 // DO NOT CHANGE \\
     global.limitawal = {
